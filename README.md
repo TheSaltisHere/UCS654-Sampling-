@@ -15,7 +15,7 @@ The models used are:
 4. Support Vector Machine
 5. KNN
 
-###Table
+##Table
 
 |                        |Simple Random Sampling | Stratified Random Sampling | Systematic Sampling | Cluster Sampling| Multi-Stage Sampling |
 | ---------------------- | --------------------- | -------------------------- | ------------------- | --------------- | -------------------- |
@@ -25,6 +25,7 @@ The models used are:
 |Support Vector Machine  |             0.689139  |                 0.617347   |          0.61039    |       0.669565  |                0.6   |
 |KNN                     |             0.981273  |                 0.959184   |         0.922078    |           0.8   |              0.86    |
 
-###Cpnclusion
+##Conclusion
 By Understanding this we get highest accuracy for Descsion Tree Classifier in Simple Random Sampling with 98.5019% accuracy.
-This was created by Rishab Chakrabarti, Roll no:102003688
+
+##This was created by Rishab Chakrabarti, Roll no:102003688
