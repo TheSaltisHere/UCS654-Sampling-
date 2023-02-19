@@ -26,6 +26,6 @@ The models used are:
 |KNN                     |             0.981273  |                 0.959184   |         0.922078    |           0.8   |              0.86    |
 
 ## Conclusion
-By Understanding this we get highest accuracy for Descsion Tree Classifier in Simple Random Sampling with 98.5019% accuracy.
+By Understanding this we get highest accuracy for Decision Tree Classifier in Simple Random Sampling with 98.5019% accuracy.
 
 ## This was created by Rishab Chakrabarti, Roll no:102003688
